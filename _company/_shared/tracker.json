@@ -1,0 +1,55 @@
+{
+  "tasks": [
+    {
+      "id": "20260518052434-pf68",
+      "title": "**반응형:** 모든 컴포넌트는 모바일(375px 너비 기준)에서 최적화되어야 합니다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-18T05:24:34.354Z",
+      "status": "done",
+      "sessionDir": "2026-05-18T05-16",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-18T05-16/_report.md\n- 현빈: Designer와 코다리 에이전트가 준비한 자료(디자인 시스템 V1.0, API 명세서)를 바탕으로, MVP의 핵심 목표 달성을 위한 가장 현실\n- Designer: 확정된 KPI 및 비즈니스 스코프를 반영하여, 개발 착수 전 최종적으로 검토할 '사용자 플로우(User Flow)'의 시나리오 기반 와이어프레임\n- 코다리: business 에이전트가 최종 KPI를 확정하는 것을 전제로, 현재 정의된 API 계약 명세서(OpenAPI)와 Designer의 최신 와이어\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: Designer와 코다리 에이전트가 준비한 자료(디자인 시스템 V1.0, API 명세서)를 바탕으로, MVP의 핵심 목표 달성을 위한 가장 현실적이고 측정 가능한 최종 KPI 3가지에 대한 '최종 비즈니스 승인'을 완",
+      "completedAt": "2026-05-18T05:27:36.427Z"
+    },
+    {
+      "id": "20260518052434-6du1",
+      "title": "**상태 관리:** `Primary Button`의 `:hover`, `:active`, `disabled` 상태가 CSS로 완벽하게 정의되었는지 확인합니다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-18T05:24:34.355Z",
+      "status": "done",
+      "sessionDir": "2026-05-18T05-16",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-18T05-16/_report.md\n- 현빈: Designer와 코다리 에이전트가 준비한 자료(디자인 시스템 V1.0, API 명세서)를 바탕으로, MVP의 핵심 목표 달성을 위한 가장 현실\n- Designer: 확정된 KPI 및 비즈니스 스코프를 반영하여, 개발 착수 전 최종적으로 검토할 '사용자 플로우(User Flow)'의 시나리오 기반 와이어프레임\n- 코다리: business 에이전트가 최종 KPI를 확정하는 것을 전제로, 현재 정의된 API 계약 명세서(OpenAPI)와 Designer의 최신 와이어\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: Designer와 코다리 에이전트가 준비한 자료(디자인 시스템 V1.0, API 명세서)를 바탕으로, MVP의 핵심 목표 달성을 위한 가장 현실적이고 측정 가능한 최종 KPI 3가지에 대한 '최종 비즈니스 승인'을 완",
+      "completedAt": "2026-05-18T05:27:36.427Z"
+    },
+    {
+      "id": "20260518052434-93fj",
+      "title": "**API 계약 명세서 활용:** 모든 데이터 로딩(특히 Step 2에서 AI 피드백)은 OpenAPI 스펙에 따른 정확한 API 호출 흐름을 따릅니다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-18T05:24:34.355Z",
+      "status": "done",
+      "sessionDir": "2026-05-18T05-16",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-18T05-16/_report.md\n- 현빈: Designer와 코다리 에이전트가 준비한 자료(디자인 시스템 V1.0, API 명세서)를 바탕으로, MVP의 핵심 목표 달성을 위한 가장 현실\n- Designer: 확정된 KPI 및 비즈니스 스코프를 반영하여, 개발 착수 전 최종적으로 검토할 '사용자 플로우(User Flow)'의 시나리오 기반 와이어프레임\n- 코다리: business 에이전트가 최종 KPI를 확정하는 것을 전제로, 현재 정의된 API 계약 명세서(OpenAPI)와 Designer의 최신 와이어\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: Designer와 코다리 에이전트가 준비한 자료(디자인 시스템 V1.0, API 명세서)를 바탕으로, MVP의 핵심 목표 달성을 위한 가장 현실적이고 측정 가능한 최종 KPI 3가지에 대한 '최종 비즈니스 승인'을 완",
+      "completedAt": "2026-05-18T05:27:36.427Z"
+    }
+  ]
+}
