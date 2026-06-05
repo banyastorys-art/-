@@ -50,6 +50,57 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-05-18T05-16/_report.md\n- 현빈: Designer와 코다리 에이전트가 준비한 자료(디자인 시스템 V1.0, API 명세서)를 바탕으로, MVP의 핵심 목표 달성을 위한 가장 현실\n- Designer: 확정된 KPI 및 비즈니스 스코프를 반영하여, 개발 착수 전 최종적으로 검토할 '사용자 플로우(User Flow)'의 시나리오 기반 와이어프레임\n- 코다리: business 에이전트가 최종 KPI를 확정하는 것을 전제로, 현재 정의된 API 계약 명세서(OpenAPI)와 Designer의 최신 와이어\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: Designer와 코다리 에이전트가 준비한 자료(디자인 시스템 V1.0, API 명세서)를 바탕으로, MVP의 핵심 목표 달성을 위한 가장 현실적이고 측정 가능한 최종 KPI 3가지에 대한 '최종 비즈니스 승인'을 완",
       "completedAt": "2026-05-18T05:27:36.427Z"
+    },
+    {
+      "id": "20260605031825-fen2",
+      "title": "30 일 환불 보장 — 결제 후에도 만족하지 못하면, 전액 환불됩니다.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-06-05T03:18:25.433Z",
+      "status": "done",
+      "sessionDir": "2026-06-05T03-08",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-05T03-08/_report.md\n- Designer: Pro Utility Model에 최적화된 '구독/가격 페이지(Pricing Page)'의 고해상도 와이어프레임을 제작하십시오. 이 페이지는 단\n- Writer: 위에서 정의된 '구독/가격 페이지'의 카피라이팅(Copywriting)을 전담하십시오. 목표는 사용자가 'Pro 기능 없이는 안 된다'고 느끼게\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Pro Utility Model에 최적화된 '구독/가격 페이지(Pricing Page)'의 고해상도 와이어프레임을 제작하십시오. 이 페이지는 단순한 가격 나열이 아니라, 사용자에게 '가치를 느끼게' 하는 경험을 제공해야 합니다. 핵",
+      "completedAt": "2026-06-05T03:20:42.877Z"
+    },
+    {
+      "id": "20260605031825-a0g6",
+      "title": "보안 인증 완료 — 고객 정보는 가장 안전한 환경으로 보호받습니다.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-06-05T03:18:25.500Z",
+      "status": "done",
+      "sessionDir": "2026-06-05T03-08",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-05T03-08/_report.md\n- Designer: Pro Utility Model에 최적화된 '구독/가격 페이지(Pricing Page)'의 고해상도 와이어프레임을 제작하십시오. 이 페이지는 단\n- Writer: 위에서 정의된 '구독/가격 페이지'의 카피라이팅(Copywriting)을 전담하십시오. 목표는 사용자가 'Pro 기능 없이는 안 된다'고 느끼게\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Pro Utility Model에 최적화된 '구독/가격 페이지(Pricing Page)'의 고해상도 와이어프레임을 제작하십시오. 이 페이지는 단순한 가격 나열이 아니라, 사용자에게 '가치를 느끼게' 하는 경험을 제공해야 합니다. 핵",
+      "completedAt": "2026-06-05T03:20:42.926Z"
+    },
+    {
+      "id": "20260605031825-lbpu",
+      "title": "실시간 고객 지원 — 문제가 생길 때, 즉시 해결책을 얻으세요.",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-06-05T03:18:25.500Z",
+      "status": "done",
+      "sessionDir": "2026-06-05T03-08",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-05T03-08/_report.md\n- Designer: Pro Utility Model에 최적화된 '구독/가격 페이지(Pricing Page)'의 고해상도 와이어프레임을 제작하십시오. 이 페이지는 단\n- Writer: 위에서 정의된 '구독/가격 페이지'의 카피라이팅(Copywriting)을 전담하십시오. 목표는 사용자가 'Pro 기능 없이는 안 된다'고 느끼게\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Pro Utility Model에 최적화된 '구독/가격 페이지(Pricing Page)'의 고해상도 와이어프레임을 제작하십시오. 이 페이지는 단순한 가격 나열이 아니라, 사용자에게 '가치를 느끼게' 하는 경험을 제공해야 합니다. 핵",
+      "completedAt": "2026-06-05T03:20:42.927Z"
     }
   ]
 }
